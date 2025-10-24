@@ -1,5 +1,8 @@
 # datavisualisation-play-the-game
 
+\*\*This repository has been archived in favour of the Zuyd Hogeschool
+[team11](https://github.com/ZM005-2025B1/team11) repository.
+
 Data visualisation for Play the Game
 
 ## Install prerequisites
